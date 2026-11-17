@@ -26,14 +26,6 @@
 
 ---
 
-### 🚀 Things I've Built
-
-- **Aurevix** – Smart Gesture and Voice Controlled Virtual Interaction System.
-- **AcreMatrix** – AI-powered real estate valuation and explainable property prediction system.
-- **QAdapt** – AI-powered Queue Intelligence and Resource Optimization System.
-- **Loop of Legends** – Interactive web development project.
----
-
 ### 📈 Current Interests
 
 - Artificial Intelligence & Machine Learning
