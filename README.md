@@ -3,36 +3,61 @@
 ### 🚀 About Me
 
 - 🎓 Second-year B.Tech student specializing in Artificial Intelligence and Machine Learning.
-- 💻 Developer passionate about AI, automation, intelligent systems, and full-stack development.
-- 🛠️ Experienced in building projects using Python, JavaScript, React, Node.js, and MongoDB.
-- 🤖 Interested in Machine Learning, Large Language Models (LLMs), and AI-powered applications.
-- 🌱 Always exploring new technologies and turning innovative ideas into real-world solutions.
+- 💻 Developer passionate about Artificial Intelligence, intelligent systems, automation, and software engineering.
+- 🤖 Building AI-powered applications, autonomous agents, and intelligent desktop systems.
+- 🛠️ Working with Python, C#, JavaScript, React.js, Node.js, and .NET.
+- 🧠 Exploring Large Language Models (LLMs), Generative AI, Computer Vision, and Machine Learning.
+- 🌱 Constantly learning, experimenting, and transforming innovative ideas into practical solutions.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, SQL, C++
+**Languages:**  
+Python, C#, JavaScript, SQL, C++
 
-**Frontend:** HTML, CSS, React.js
+**Frontend Development:**  
+HTML5, CSS3, React.js, WPF, XAML
 
-**Backend:** Node.js, Express.js
+**Backend Development:**  
+Node.js, Express.js, ASP.NET Core, REST APIs
 
-**Database:** MongoDB, MySQL, SQLite
+**Databases:**  
+MongoDB, MySQL, SQLite
 
-**AI & Machine Learning:** OpenCV, MediaPipe, Machine Learning, LLMs
+**AI & Machine Learning:**  
+Machine Learning, Large Language Models (LLMs), Generative AI, Computer Vision, OpenCV, MediaPipe, AI Agents
 
-**Tools:** Git, GitHub, VS Code, Postman, PowerShell
+**.NET Ecosystem:**  
+C#, .NET 8.0, WPF, ASP.NET Core
+
+**AI & API Integration:**  
+Groq API, Vision Models, Microsoft Edge-TTS
+
+**Tools & Platforms:**  
+Git, GitHub, VS Code, Visual Studio, Postman, PowerShell
+
+---
+
+### 🚀 Projects & Development
+
+- **AETHER Core Engine** – An intelligent AI desktop companion inspired by J.A.R.V.I.S., built with C#, .NET 8.0, WPF, and AI integration.
+- **AcreMatrix** – AI-powered real-estate valuation system focused on explainable property price prediction.
+- **Aurevix** – Multimodal gesture and voice-controlled virtual interaction system.
+- **QAdapt** – AI-powered queue intelligence and crowd prediction system.
+- **Loop of Legends** – Exploring open-source development and collaborative software engineering.
 
 ---
 
 ### 📈 Current Interests
 
 - Artificial Intelligence & Machine Learning
+- Autonomous AI Agents and Agentic Systems
 - Generative AI and Large Language Models
-- Full-Stack Web Development
-- Intelligent Automation Systems
-- Building Innovative Real-World Applications
+- Computer Vision and Intelligent Interaction
+- .NET Desktop Application Development
+- Full-Stack Development
+- Open-Source Contributions
 
 ---
 
@@ -45,7 +70,7 @@
 
 ### 🌐 Connect With Me
 
-- 💻 GitHub: [Pratha More](https://github.com/prathaaa8806)
+- 💻 GitHub: [Prathaa!!!](https://github.com/prathaaa8806)
 - 💼 LinkedIn: [Pratha More](https://www.linkedin.com/in/pratha-more-9598a931a/)
 - 📧 Email: [prathamore8806@gmail.com](mailto:prathamore8806@gmail.com)
 
